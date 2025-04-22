@@ -10,7 +10,7 @@
 
 I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it!
 
-  - Research Software Engineer @[Max Planck Institute for Evolutionary Biology](https://www.evolbio.mpg.de/2169/en)
+  - Researcher @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/)
   - Researcher @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
 
 🌱 **Slowly cultivated interests:**
