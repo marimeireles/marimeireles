@@ -59,3 +59,5 @@ _"Life is short, craft long, opportunity fleeting, experiment treacherous, judgm
 _"We are not studying in order to know what virtue is, but to become good, for otherwise there would be no profit in it." - Aristotle_
 
 _"Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!"_ - Ginsberg
+
+_"Computer science is no more about computers than astronomy is about telescopes."_ - Dijkstra
