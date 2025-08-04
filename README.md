@@ -6,30 +6,30 @@
   - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer
   - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
-✨ **Coordination Research: complex systems and reinforcement learning:**
+✨ **Coordination and cooperation research:**
 
 I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it!
 
-  - Researcher @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/)
-  - Researcher @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
+  - Curr. @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/)
+  - Prev. @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
 
 🌱 **Slowly cultivated interests:**
-  - Extreme poverty reduction: I'm interested in ways of decreasing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south, implementing a fitting [ pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4) for kids impacted with poverty, [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
+  - Extreme poverty reduction: I'm interested in ways of diminishing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south, implementing a fitting [ pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4) for kids impacted with poverty, [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
   - [Governance and open source](https://www.notion.so/marimeireles/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4): Increasing interoperability and people's agency in a world of machines and humans. Currently, I'm interested in promoting digital democracy supporting work like [vodle](https://github.com/pik-gane/vodle#readme) or the Plurality Institute.
-  - [Software fun projects](https://www.notion.so/marimeireles/ba473e6b20464b63bb6417a3d5e284c0?v=fd6def1276a9491eb766811161ed7ed9)
-  - [Reading books](http://marimeireles.com/books.html)
+  - [Using books to live vicariously](http://marimeireles.com/books.html)
+  - Noticing the wonder of each moment
 
 🦄 **Communicorn:**
 
-*Community is my favorite thing in the universe! If you think we can have a serendipitous interaction, hit me up! I love to collaborate with others. ✨*
+*Community is my favorite thing in the universe! If you think we can have a serendipitous interaction, hit me up! I love to share with others. ✨*
 
   - I host dinners and salons in Berlin. Themes we talked about include "The limits of free speech", "Spirituality and rituals", "Rethinking future socio-economic structures and institutions", "How to be moral", etc. If you are a Berliner or a passer-by and would like to join we welcome first-timers, just send me an email!
-  - I'm [starting an intentional community house in Berlin to live with my friends](https://marimeireles.notion.site/Berlin-intentional-community-living-2d346f0f86a04d55b596da65ad56c7e9). It's generally centered in doing good to the world and endulging in nerdyness, [here's a link](https://docs.google.com/document/d/11ShEoP_h5qazoRIHDdSbFQFKa1ZgUPy60x8D2RVf6Ak/edit#heading=h.g6nr81xnwjj7) for an initial sketch of out vision. If you are interested in joining or in helping, just send me an email introducing yourself.
+  - Check out the [community](https://marimeireles.com/#community) session on my website!
 
 📝 **Writing:**
   - Research blog: [techforgoodresearch.substack.com](https://techforgoodresearch.substack.com/)
-  - Posts about open science softwares I maintain(ed): [mari-meir.medium.com](https://mari-meir.medium.com)
-  - Personal blog where I explore computer science topics: [cyborgdream.github.io](https://cyborgdream.github.io/)
+  - Open science softwares I maintain(ed): [mari-meir.medium.com](https://mari-meir.medium.com)
+  - Computer science topics: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Personal blog about my travellings that contemplate aspects of digital nomading and community building: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
 🧠 **Want to hire my beautiful brains?:**
@@ -58,6 +58,6 @@ _"Life is short, craft long, opportunity fleeting, experiment treacherous, judgm
 
 _"We are not studying in order to know what virtue is, but to become good, for otherwise there would be no profit in it." - Aristotle_
 
-_"Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!"_ - Ginsberg
+_"Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!" - Ginsberg_
 
-_"Computer science is no more about computers than astronomy is about telescopes."_ - Dijkstra
+_"Computer science is no more about computers than astronomy is about telescopes." - Dijkstra_
