@@ -14,17 +14,17 @@ I believe the most critical problem that we face today is the one of [coordinati
   - Prev. @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
 
 🌱 **Slowly cultivated interests:**
-  - Extreme poverty reduction: I'm interested in ways of diminishing the inequality gap, paying special attention to people living in extreme poverty. I think about [running tech intership projects](https://www.notion.so/marimeireles/Global-south-internship-program-6ba5ab15a0f54f2187a55ba0d01aab59?pvs=4) in the global south, implementing a fitting [ pedagogical ethos](https://www.notion.so/marimeireles/Pedagogical-ethos-for-kids-impacted-with-poverty-aacad2d96f3c422199524255878b2f07?pvs=4) for kids impacted with poverty, [teaching farmers about permaculture and supporting them with an NGO](https://www.notion.so/marimeireles/Familiar-permaculture-project-Brazil-0277fccccb7740c49cc0845b824e9d10?pvs=4) and [increasing internet access in the world](https://www.notion.so/marimeireles/Increasing-internet-access-b377c40a21ba483ebec686afc0a508c5?pvs=4).
-  - [Governance and open source](https://www.notion.so/marimeireles/Governance-and-open-source-63235d5f677448cfb411db8dbed19fc4): Increasing interoperability and people's agency in a world of machines and humans. Currently, I'm interested in promoting digital democracy supporting work like [vodle](https://github.com/pik-gane/vodle#readme) or the Plurality Institute.
-  - [Using books to live vicariously](http://marimeireles.com/books.html)
-  - Noticing the wonder of each moment
+  - Extreme poverty reduction: I'm interested in ways of diminishing the inequality gap. I support causes like Give Directly, land redistribution coupled with permaculture and community building in rural contexts, global free internet access and leveraging non-traditional methods of pedagogy in regions of extreme poverty.
+  - Governance and open source: Increasing interoperability and empowering democracy in a world of machines and humans. [Audrey Tang's](https://en.wikipedia.org/wiki/Audrey_Tang) work is my biggest inspiration for what one can accomplish in this area. Though heroes like [Schwartz](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf) and [Elbakyan](https://en.wikipedia.org/wiki/Alexandra_Elbakyan) taught me to dream of a more beautiful world much earlier on.
+  - Living vicariously [through books](http://marimeireles.com/books).
+  - Noticing the wonder of every moment.
 
 🦄 **Communicorn:**
 
 *Community is my favorite thing in the universe! If you think we can have a serendipitous interaction, hit me up! I love to share with others. ✨*
 
-  - I host dinners and salons in Berlin. Themes we talked about include "The limits of free speech", "Spirituality and rituals", "Rethinking future socio-economic structures and institutions", "How to be moral", etc. If you are a Berliner or a passer-by and would like to join we welcome first-timers, just send me an email!
-  - Check out the [community](https://marimeireles.com/#community) session on my website!
+  - I host dinners and salons in Berlin. Themes we talked about include "The limits of free speech", "Spirituality and rituals", "Rethinking future socio-economic structures and institutions", etc. If you are a Berliner or a passer-by and would like to join we welcome first-timers, just send me an email!
+  - Check out the "community" session on my website!
 
 📝 **Writing:**
   - Research blog: [techforgoodresearch.substack.com](https://techforgoodresearch.substack.com/)
@@ -34,7 +34,7 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 🧠 **Want to hire my beautiful brains?:**
 
-If you are a tech-recruiter, please take the time to answer these [two questions](https://e7a1xatfr0q.typeform.com/to/ScImy663). For research positions or other kinds of or collaboration (see the community tab on my personal website) feel free to send me an email and/or grab a time in my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9)
+I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me an email and/or grab a time in my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9) to discuss.
 
 ### Talks, classes and podcasts:
   - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
