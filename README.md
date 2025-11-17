@@ -34,7 +34,7 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 🧠 **Want to hire my beautiful brains?:**
 
-I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me an email and/or grab a time in my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9) to discuss.
+I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9) to discuss.
 
 ### Talks, classes and podcasts:
   - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
