@@ -15,7 +15,7 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 🌱 **Slowly cultivated interests:**
   - Extreme poverty reduction: I'm interested in ways of diminishing the inequality gap. I support causes like Give Directly, land redistribution coupled with permaculture and community building in rural contexts, global free internet access and leveraging non-traditional methods of pedagogy in regions of extreme poverty.
-  - Governance and open source: Increasing interoperability and empowering democracy in a world of machines and humans. [Audrey Tang's](https://en.wikipedia.org/wiki/Audrey_Tang) work is my biggest inspiration for what one can accomplish in this area. Though heroes like [Schwartz](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf) and [Elbakyan](https://en.wikipedia.org/wiki/Alexandra_Elbakyan) taught me to dream of a more beautiful world much earlier on.
+  - Governance and open source: Increasing interoperability and empowering democracy in a world of machines and humans. [Audrey Tang's](https://en.wikipedia.org/wiki/Audrey_Tang) work is my biggest inspiration for what one can accomplish in this area. Though heroes like [Schwartz](https://ia600101.us.archive.org/1/items/GuerillaOpenAccessManifesto/Goamjuly2008.pdf) and [Elbakyan](https://en.wikipedia.org/wiki/Alexandra_Elbakyan) taught me to dream of a more beautiful cybernetic world much earlier on.
   - Living vicariously [through books](http://marimeireles.com/books).
   - Noticing the wonder of every moment.
 
