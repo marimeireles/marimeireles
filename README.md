@@ -3,7 +3,7 @@
 :shipit: **My open software & open science work:**
   - [NumFOCUS DISC](https://numfocus.org/programs/diversity-inclusion) steering committee member 2022 - 2024
   - [Jupyter distinguished contributor](https://jupyter.org/governance/distinguished_contributors.html)
-  - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer
+  - [PyLadies Berlin](https://berlin.pyladies.com/) and [Women of Color Code](https://www.linkedin.com/company/84894279/) co-organizer 2020 - 2024
   - NASA's subject matter expert @[TOPS](https://science.nasa.gov/open-science/transform-to-open-science) program
 
 ✨ **Coordination and cooperation research:**
@@ -42,8 +42,6 @@ I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://medium.com/@mari_meir](https://techforgoodresearch.substack.com/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/substack.svg" alt="" height="30" width="40" /></a>
-<a href="https://kolektiva.social/web/@marimeireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mastodon.svg" alt="@marimeireles@kolektiva.social" height="30" width="40" /></a>
-<a href="https://twitter.com/mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mari_meir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mariana-meireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariana-meireles" height="30" width="40" /></a>
 <a href="https://medium.com/@mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mari_meir" height="30" width="40" /></a>
   
