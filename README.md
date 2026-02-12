@@ -58,4 +58,6 @@ _"We are not studying in order to know what virtue is, but to become good, for o
 
 _"Moloch whose fate is a cloud of sexless hydrogen! Moloch whose name is the Mind!" - Ginsberg_
 
+_"Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be stilled; where there is knowledge, it will pass away. For we know in part and we prophesy in part, but when completeness comes, what is in part disappears. When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I put the ways of childhood behind me. For now we see only a reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known. And now these three remain: faith, hope and love. But the greatest of these is love. - Corinthians 13_"
+
 _"Computer science is no more about computers than astronomy is about telescopes." - Dijkstra_
