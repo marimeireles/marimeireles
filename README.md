@@ -8,10 +8,10 @@
 
 ✨ **Coordination and cooperation research:**
 
-I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/), so I'm dedicating a big part of my time to work on it!
+I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) and mindful cooperation for the flourishing of human kind, so I'm dedicating a big part of my time to work on it!
 
-  - Curr. @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/)
-  - Prev. @[BarfussLab](https://wbarfuss.github.io/), University of Bonn
+  - Curr. @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/) & Jinesis Lab - UToronto
+  - Prev. @[BarfussLab](https://wbarfuss.github.io/) - University of Bonn, Max Planck Institute for Evolutionary Biology
 
 🌱 **Slowly cultivated interests:**
   - Extreme poverty reduction: I'm interested in ways of diminishing the inequality gap. I support causes like [Give Directly](https://www.givedirectly.org/), land redistribution coupled with permaculture and community building in rural contexts, global free internet access and leveraging non-traditional methods of pedagogy in regions of extreme poverty. I also wonder about applying cybernetics and machine learning techniques to help solve redistribution issues and find pareto optimal equilibria among economical actors.
