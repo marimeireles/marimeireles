@@ -33,9 +33,8 @@ I believe the most critical problem that we face today is the one of [coordinati
   - Computer science topics: [cyborgdream.github.io](https://cyborgdream.github.io/)
   - Personal blog about my travellings that contemplate aspects of digital nomading and community building: [wireless-hippie.github.io](https://wireless-hippie.github.io/)
 
-🧠 **Want to hire my beautiful brains?:**
-
-I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9) to discuss.
+🧠 **Hiring my brains:**
+- I'm currently seeking in-person opportunities in the Bay Area! [Get in touch](https://calendar.app.google/BocgEAFEH9JD8YKN9) :)
 
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
