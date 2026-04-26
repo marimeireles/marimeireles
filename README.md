@@ -10,7 +10,8 @@
 
 I believe the most critical problem that we face today is the one of [coordination](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) and mindful cooperation for the flourishing of human kind, so I'm dedicating a big part of my time to work on it!
 
-  - Curr. @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/) & Jinesis Lab - UToronto
+  - Curr. @[CHAI - UC Berkeley](https://www.https://humancompatible.ai/) working on theoretical neuroscience, LLM cybersecurity and phenomenology
+  - & at Jinesis Lab - UToronto, working on LLM coordination & alignment and democracy at scale
   - Prev. @[BarfussLab](https://wbarfuss.github.io/) - University of Bonn, Max Planck Institute for Evolutionary Biology
 
 🌱 **Slowly cultivated interests:**
