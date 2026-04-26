@@ -36,17 +36,6 @@ I believe the most critical problem that we face today is the one of [coordinati
 
 I'm open to techinical AI Safety positions in the Bay Area! Feel free to send me an email and/or grab a time on my [calendar](https://calendar.app.google/BocgEAFEH9JD8YKN9) to discuss.
 
-### Talks, classes and podcasts:
-  - You can find a list [here](https://github.com/marimeireles/talks/blob/master/README.md)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://medium.com/@mari_meir](https://techforgoodresearch.substack.com/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/substack.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mariana-meireles" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariana-meireles" height="30" width="40" /></a>
-<a href="https://medium.com/@mari_meir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mari_meir" height="30" width="40" /></a>
-  
-</p>
-
 
 _"Typelists are devoid of any value: Their bodies are empty, they don't hold any state, and they don't define any functionality." - Alexandrescu_
 
